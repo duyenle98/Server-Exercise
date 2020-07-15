@@ -14,6 +14,7 @@
    sudo passwd user-3
 
    ![User-b1](./images/user-b1.png)
+
    ![User-b2](./images/user-b2.png)
 
    #### Create group:
