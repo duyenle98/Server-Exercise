@@ -7,6 +7,8 @@
 
 ssh user-1@192.168.0.44
 
+![Connect](./images/connect.png)
+
 #### Upload folder duyen
 
 scp -r duyen user-1@192.168.0.44:duyen
