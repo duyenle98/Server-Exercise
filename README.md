@@ -76,7 +76,7 @@ sudo a2ensite vinasupport-b.test.conf
 
 ![Test](./images/test.png)
 
-3. Cấu hình thêm 1 virtual host có domain là google.com.vn (Hiện thị 1 trang html với dòng “<h1>Hello world</h1>“)
+3. Cấu hình thêm 1 virtual host có domain là google.com.vn (Hiện thị 1 trang html với dòng “Hello world“)
 
 #### Hinh anh ket qua
 
