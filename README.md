@@ -1,4 +1,4 @@
-# bài thực hành về user, group, file
+# Bài thực hành về user, group, file
 
 1. Tạo 3 user(user-1, user-2, user-3), 2 group(groupA, groupB)
 
